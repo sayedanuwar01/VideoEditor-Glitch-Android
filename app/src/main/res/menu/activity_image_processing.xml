@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Share App" />
+    <item
+        android:id="@+id/rate"
+        android:title="Rate App"
+        android:visible="true"/>
+    <item
+        android:id="@+id/more"
+        android:title="More Apps"
+        android:visible="true"/>
+    <item
+        android:id="@+id/privacy"
+        android:title="Privacy Policy"
+        android:visible="true"/>
+</menu>
